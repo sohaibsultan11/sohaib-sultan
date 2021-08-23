@@ -1,0 +1,74 @@
+@media (min-width: 768 and max-width: 991px);
+@media (min-width: 767 , max-width: 992px);
+@media (min-width:  766, max-width: 767px);
+
+h1 {
+  text-align: center;
+}
+
+.card2 {
+   background-color: LightSlateGray;
+   padding: 100px 30px;
+   margin-top: 20px;
+   padding-left: 50px;
+
+}
+
+
+
+
+body {
+	background-color: #f6f6ff;
+	font-family: Calibri, Myriad;
+}
+
+#main {
+	width: 200px;
+	padding: 20px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Right column */
+.rightcolumn {
+  float: left;
+  width: 30%;
+  padding-left: 30px;
+
+}
+
+
+
+/* Add a card effect for articles */
+.card {
+   background-color: #0156 ;
+   padding: 100px 50px; 
+   margin-top: 20px;
+}
+
+.card1 {
+   background-color: #0006;
+    padding: 100px 50px;
+    margin-top: 20px;
+   padding-left: 50px;
+
+
+
+
+
+
+
